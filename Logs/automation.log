@@ -1,0 +1,118 @@
+2025-06-11 21:08:30 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-11 21:08:31 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-11 21:08:33 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-11 21:08:33 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-11 21:08:39 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-11 21:08:41 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-11 21:08:41 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-11 21:08:41 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-11 21:09:52 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-11 21:09:56 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-11 21:09:56 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-11 21:09:57 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-11 21:09:57 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-11 21:09:59 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-11 21:10:01 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-11 21:10:01 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-11 21:10:01 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-11 21:10:08 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-11 21:10:10 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-11 21:10:10 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-11 21:10:10 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 12:49:11 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 12:49:11 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 12:49:12 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 12:49:12 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 12:49:14 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 12:49:16 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 12:49:16 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 12:49:16 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 12:49:22 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 12:49:23 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 12:49:23 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 12:49:23 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 12:49:26 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 12:49:28 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 12:49:28 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 12:49:28 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 13:00:17 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:00:17 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:00:18 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:00:18 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 13:00:20 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:00:20 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:00:21 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:00:21 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:00:21 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 13:00:22 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:00:22 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:00:22 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 13:00:32 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:00:34 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:00:34 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:00:34 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 13:02:26 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:02:26 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:02:27 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:02:27 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 13:02:28 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:02:30 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:02:30 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:02:30 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:02:30 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 13:02:30 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:02:31 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:02:31 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 13:02:42 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:02:44 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:02:44 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:02:44 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 13:17:19 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:17:19 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:17:19 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:17:19 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:17:20 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:17:20 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:17:22 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:17:23 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:17:24 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:17:24 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:17:25 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:17:25 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:24:14 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:24:14 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:24:15 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:24:15 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 13:24:17 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:24:19 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:24:19 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:24:19 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 13:24:40 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:24:40 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:24:42 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:24:42 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 13:24:43 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:24:44 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:24:45 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:24:45 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:24:45 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:24:45 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 13:24:46 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:24:46 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 13:24:51 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:24:53 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:24:53 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:24:53 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 13:35:18 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:35:18 INFO  Qafox_Test_Class:37 - Actual Result is featched from App
+2025-06-12 13:35:20 INFO  Qafox_Test_Class:40 - Expected Result is featched from Excelsheet
+2025-06-12 13:35:20 INFO  Qafox_Test_Class:43 - TC101 is Passed
+2025-06-12 13:35:23 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:35:25 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:35:25 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:35:25 INFO  Qafox_Test_Class:62 - TC102 is Passed
+2025-06-12 13:35:31 INFO  Qafox_Test_Class:30 - TC101 is started
+2025-06-12 13:35:39 INFO  Qafox_Test_Class:49 - TC102 is started
+2025-06-12 13:35:42 INFO  Qafox_Test_Class:56 - Actual Title is featched from App
+2025-06-12 13:35:42 INFO  Qafox_Test_Class:59 - Expected Title is featched from Excelsheet
+2025-06-12 13:35:42 INFO  Qafox_Test_Class:62 - TC102 is Passed

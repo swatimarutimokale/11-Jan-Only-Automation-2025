@@ -1,0 +1,28 @@
+
+<suite thread-count="5" name="Suite" parallel="tests">
+
+  <test  name="Test_Chrome">
+  <parameter name="browserName" value="Chrome"/>
+    <classes>
+      <class name="Module_I_Account_Test_Classes.Qafox_Test_Class"/>
+    </classes>
+     </test> <!-- Test -->
+     
+  <test name="Test_firefox">
+	<parameter name="browserName" value="firefox"/>
+  <classes>
+<class name="Module_I_Account_Test_Classes.Qafox_Test_Class"/>
+  </classes>
+</test><!-- Test -->
+
+<test name="Test_Edge">
+	<parameter name="browserName" value="Edge"/>
+<classes>
+<class name="Module_I_Account_Test_Classes.Qafox_Test_Class"/>
+</classes>
+</test><!-- Test -->
+
+  
+</suite> <!-- Suite -->
+
+
